@@ -11,7 +11,7 @@ import SwiftUI
 struct _0_CupcakeCorner_iOS_17App: App {
     var body: some Scene {
         WindowGroup {
-            Haptic()
+            HomeView()
         }
     }
 }
