@@ -18,6 +18,8 @@
 		04B23FAB2B97D402008279C1 /* AsyncImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B23FAA2B97D402008279C1 /* AsyncImage.swift */; };
 		04B23FAD2B97D7BB008279C1 /* ValidatingForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B23FAC2B97D7BB008279C1 /* ValidatingForm.swift */; };
 		04B23FAF2B97E81C008279C1 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B23FAE2B97E81C008279C1 /* SwiftUIView.swift */; };
+		04EB2B812BA3265000D45156 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04EB2B802BA3265000D45156 /* CheckoutView.swift */; };
+		04EB2B832BA3429700D45156 /* String-EmptyChecking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04EB2B822BA3429700D45156 /* String-EmptyChecking.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +35,8 @@
 		04B23FAA2B97D402008279C1 /* AsyncImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImage.swift; sourceTree = "<group>"; };
 		04B23FAC2B97D7BB008279C1 /* ValidatingForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidatingForm.swift; sourceTree = "<group>"; };
 		04B23FAE2B97E81C008279C1 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		04EB2B802BA3265000D45156 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
+		04EB2B822BA3429700D45156 /* String-EmptyChecking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String-EmptyChecking.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +84,9 @@
 				04B23F9C2B97C9FA008279C1 /* _0_CupcakeCorner_iOS_17App.swift */,
 				043F9E5E2B9E7783002B0B73 /* HomeView.swift */,
 				043F9E632B9E7F07002B0B73 /* AddressView.swift */,
+				04EB2B802BA3265000D45156 /* CheckoutView.swift */,
 				043F9E612B9E77B6002B0B73 /* Order.swift */,
+				04EB2B822BA3429700D45156 /* String-EmptyChecking.swift */,
 				043F9E602B9E77A4002B0B73 /* Training */,
 				04B23FA02B97C9FB008279C1 /* Assets.xcassets */,
 				04B23FA22B97C9FB008279C1 /* Preview Content */,
@@ -166,8 +172,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04EB2B832BA3429700D45156 /* String-EmptyChecking.swift in Sources */,
 				040DD6A72B9C6EFD00083AF1 /* Haptic.swift in Sources */,
 				043F9E5F2B9E7783002B0B73 /* HomeView.swift in Sources */,
+				04EB2B812BA3265000D45156 /* CheckoutView.swift in Sources */,
 				043F9E622B9E77B6002B0B73 /* Order.swift in Sources */,
 				04B23F9F2B97C9FA008279C1 /* ContentView.swift in Sources */,
 				04B23FAB2B97D402008279C1 /* AsyncImage.swift in Sources */,
